@@ -19,7 +19,7 @@ The project uses the following technologies:
 To set up and use the project, follow these steps:
 ### Install MySQL:
 - Ensure MySQL is installed and running on your system. You can download it from the [official MySQL website](https://dev.mysql.com/downloads/).
-- Create a database named `maishameds_db`.
+- Create a database named `afyaMeds_db`.
 ### Run Schema SQL:
 - Navigate to the `AfyaMeds Inventory Management System` folder within the repository. This folder contains the necessary files for the project.
 - Execute the file `AfyaMeds Inventory Management System.sql` to create the database schema, including tables and indexes.
